@@ -59,6 +59,7 @@ def get_hairStyleColor(query):
     | llm
     | StrOutputParser()       
     )
+    
 
     f.close()
     return rag_chain.invoke(query)
