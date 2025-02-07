@@ -20,10 +20,12 @@
   ![Image](https://github.com/user-attachments/assets/d005400a-e861-4fa0-8536-86f30225e004)
 
 ## 💾HairCLIPv2 Image Generation Experiment
-<img width="633" alt="Image" src="https://github.com/user-attachments/assets/19d92a38-34da-4099-b96a-797915948c5b" />
-<img width="632" alt="Image" src="https://github.com/user-attachments/assets/92b0f69f-8deb-48a3-a238-18ed8c739b83" />
+<img width="637" alt="Image" src="https://github.com/user-attachments/assets/19d92a38-34da-4099-b96a-797915948c5b" />
+<img width="637" alt="Image" src="https://github.com/user-attachments/assets/92b0f69f-8deb-48a3-a238-18ed8c739b83" />
+<img width="637" alt="Image" src="https://github.com/user-attachments/assets/babf937c-0366-4f29-b82a-c499a168a588" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/7e708e07-9b32-4959-b008-93bfa723cda5" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/eef406ad-902b-4d3e-8e65-e53bdc0ef4b1" />
+<img width="637" alt="Image" src="https://github.com/user-attachments/assets/f61399ba-031d-4b8f-b86e-27ffb47318c4" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/15a07d07-095d-47a5-b670-87d079d5ba16" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/067aa82b-1d47-4bac-b8da-9a4360d32b72" />
 
