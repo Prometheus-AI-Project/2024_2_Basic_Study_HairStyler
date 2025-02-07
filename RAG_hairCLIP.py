@@ -11,6 +11,8 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 
+import argparse
+
 # ✅ .env 파일에서 환경 변수 로드
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -71,3 +73,11 @@ def get_hairStyleColor(query):
     )
 
     return rag_chain.invoke(query)
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Hair style and color suggestion using LLM.")
+    parser.add_argument("prompt", type=str, help="Enter a query about hairstyle.")
+    args = parser.parse_args()
+
+    result = get_hairStyleColor(args.prompt)
+    print(result)
