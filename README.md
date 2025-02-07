@@ -16,5 +16,14 @@
 ## ⭐Demo Day
 * 2025/02/08 프로메테우스 데모 데이 부스 운영
 * streamlit을 활용해 간단한 웹페이지를 구축한 후 헤어스타일 추천 및 사진 생성 서비스 진행
+<img width="774" alt="Image" src="https://github.com/user-attachments/assets/1cbf3ea5-22d5-459f-8dca-ccce7cb913e5" />
+
+
+## 😎Members
+| 심수민 (팀장, 개발)      | 강민진 (개발)     | 김성재 (개발)     | 조현진 (개발)  |
+|:-----------------:|:----------------:|:-----------------:|:--------------------:|
+| 2기      | 6기 | 6기 | 6기 |
+| [use08174](https://github.com/use08174)        |  [Minjin03](https://github.com/Minjin03)  |  [jayimnida](https://github.com/jayimnida)   |  [hyun-jin891](https://github.com/hyun-jin891)|
+
 
 
