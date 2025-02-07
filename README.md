@@ -13,7 +13,7 @@
 * 프롬프트 엔지니어링을 통해 GPT-4o가 헤어 스타일과 헤어 컬러로 나눠서 답변을 수행하도록 제한
 * 두 가지 텍스트 키워드(헤어스타일, 헤어 컬러)를 HairCLIPv2 모델에 넣어 사용자 얼굴에 추천된 헤어스타일을 생성
 
-## 💾Output Image
+## 💾HairCLIPv2 Image Generation Experiment
 <img width="633" alt="Image" src="https://github.com/user-attachments/assets/19d92a38-34da-4099-b96a-797915948c5b" />
 <img width="632" alt="Image" src="https://github.com/user-attachments/assets/92b0f69f-8deb-48a3-a238-18ed8c739b83" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/7e708e07-9b32-4959-b008-93bfa723cda5" />
