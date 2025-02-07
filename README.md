@@ -23,7 +23,7 @@
 | 심수민 (팀장, 개발)      | 강민진 (개발)     | 김성재 (개발)     | 조현진 (개발)  |
 |:-----------------:|:----------------:|:-----------------:|:--------------------:|
 | 2기      | 6기 | 6기 | 6기 |
-| [use08174](https://github.com/use08174)        |  [Minjin03]((https://github.com/Minjin03))  |  [jayimnida](https://github.com/jayimnida)   |  [hyun-jin891](https://github.com/hyun-jin891)|
+| [use08174](https://github.com/use08174)        |  [Minjin03](https://github.com/Minjin03)  |  [jayimnida](https://github.com/jayimnida)   |  [hyun-jin891](https://github.com/hyun-jin891)|
 
 
 
