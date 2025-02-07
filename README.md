@@ -21,8 +21,8 @@
 
 ## 💾HairCLIPv2 Image Generation Experiment
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/19d92a38-34da-4099-b96a-797915948c5b" />
+<img width="632" alt="Image" src="https://github.com/user-attachments/assets/56b8154e-1dcf-484f-a47e-ad53e7a9243e" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/e639a5e6-b648-4610-ba73-1ceea5c107b9" />
-<img width="637" alt="Image" src="https://github.com/user-attachments/assets/babf937c-0366-4f29-b82a-c499a168a588" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/7e708e07-9b32-4959-b008-93bfa723cda5" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/eef406ad-902b-4d3e-8e65-e53bdc0ef4b1" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/f61399ba-031d-4b8f-b86e-27ffb47318c4" />
