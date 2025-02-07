@@ -14,9 +14,9 @@
 * 두 가지 텍스트 키워드(헤어스타일, 헤어 컬러)를 HairCLIPv2 모델에 넣어 사용자 얼굴에 추천된 헤어스타일을 생성
 
 ## 📟RAG Experiment
-* Question Query 생성
+* Question Query 생성<br>
   ![Image](https://github.com/user-attachments/assets/1c264df0-69f3-401b-8044-210b252c2d18)
-* 헤어스타일과 헤어 컬러를 나눠서 답변이 생성되도록 프롬프트 엔지니어링
+* 헤어스타일과 헤어 컬러를 나눠서 답변이 생성되도록 프롬프트 엔지니어링<br>
   ![Image](https://github.com/user-attachments/assets/d005400a-e861-4fa0-8536-86f30225e004)
 
 ## 💾HairCLIPv2 Image Generation Experiment
