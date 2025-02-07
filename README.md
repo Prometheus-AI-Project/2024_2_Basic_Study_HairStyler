@@ -15,10 +15,8 @@
 
 ## 📟RAG Experiment
 * Question Query 생성<br>
-<br>
   ![Image](https://github.com/user-attachments/assets/1c264df0-69f3-401b-8044-210b252c2d18)
 * 헤어스타일과 헤어 컬러를 나눠서 답변이 생성되도록 프롬프트 엔지니어링<br>
-<br>
   ![Image](https://github.com/user-attachments/assets/d005400a-e861-4fa0-8536-86f30225e004)
 
 ## 💾HairCLIPv2 Image Generation Experiment
