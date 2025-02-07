@@ -14,7 +14,9 @@
 * 두 가지 텍스트 키워드(헤어스타일, 헤어 컬러)를 HairCLIPv2 모델에 넣어 사용자 얼굴에 추천된 헤어스타일을 생성
 
 ## 💾Output Image
-
+<img width="633" alt="Image" src="https://github.com/user-attachments/assets/19d92a38-34da-4099-b96a-797915948c5b" />
+<img width="637" alt="Image" src="https://github.com/user-attachments/assets/7e708e07-9b32-4959-b008-93bfa723cda5" />
+<img width="754" alt="Image" src="https://github.com/user-attachments/assets/eef406ad-902b-4d3e-8e65-e53bdc0ef4b1" />
 
 
 
