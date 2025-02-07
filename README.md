@@ -15,6 +15,7 @@
 
 ## 💾Output Image
 <img width="633" alt="Image" src="https://github.com/user-attachments/assets/19d92a38-34da-4099-b96a-797915948c5b" />
+<img width="632" alt="Image" src="https://github.com/user-attachments/assets/92b0f69f-8deb-48a3-a238-18ed8c739b83" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/7e708e07-9b32-4959-b008-93bfa723cda5" />
 <img width="754" alt="Image" src="https://github.com/user-attachments/assets/eef406ad-902b-4d3e-8e65-e53bdc0ef4b1" />
 
