@@ -39,7 +39,7 @@
 <br>
 * 헤어스타일 생성
 <br>
-<img width="637" alt="Image" src="https://github.com/user-attachments/assets/c59e75d2-7916-42d9-b4ad-813636249278" />
+<img width="637" alt="Image" src="https://github.com/user-attachments/assets/6514d65a-ea0f-4066-8c6b-3cebbf1fdf40" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/ea0a42f4-19fa-45a6-858c-bcdffb18f29e" />
 
 ## 😎Members
