@@ -34,7 +34,9 @@
 * streamlit을 활용해 간단한 웹페이지를 구축한 후 헤어스타일 추천 및 사진 생성 서비스 진행
 <img width="774" alt="Image" src="https://github.com/user-attachments/assets/1cbf3ea5-22d5-459f-8dca-ccce7cb913e5" />
 <br>
+
 * 서비스
+
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/3e483068-163d-4a71-9c58-c8e95cc8f7c3" />
 <br>
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/6514d65a-ea0f-4066-8c6b-3cebbf1fdf40" />
