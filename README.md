@@ -10,7 +10,7 @@
 * 얼굴형, 이목구비에 따라 어울리는 헤어스타일을 정리한 웹사이트에서 텍스트 크롤링
 * 임베딩을 위한 텍스트 분할 이후 벡터 데이터베이스 구축
 * 사용자가 헤어스타일에 대한 고민을 Question Query로 GPT-4o에 입력 -> multi-query 방식으로 다양한 Question Query Variant들을 생성하여 답변의 융통성을 부여
-* 프롬프트 엔지니어링을 통해 GPT-4o가 헤어스타일과 헤어 컬러로 나눠서 답변을 수행하도록 제한
+* 프롬프트 엔지니어링을 통해 GPT-4o가 정해진 형식으로 헤어스타일 답변을 수행하도록 제한
 * 두 가지 텍스트 키워드(헤어스타일, 헤어 컬러)를 HairCLIPv2 모델에 넣어 사용자 얼굴에 추천된 헤어스타일을 생성
 
 ## 📟RAG Experiment
@@ -34,10 +34,8 @@
 * streamlit을 활용해 간단한 웹페이지를 구축한 후 헤어스타일 추천 및 사진 생성 서비스 진행
 <img width="774" alt="Image" src="https://github.com/user-attachments/assets/1cbf3ea5-22d5-459f-8dca-ccce7cb913e5" />
 <br>
-* 헤어스타일 질문 query 생성 및 답변 생성 (헤어컬러는 프롬프트에서 뺀 상태)
+* 서비스
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/3e483068-163d-4a71-9c58-c8e95cc8f7c3" />
-<br>
-* 헤어스타일 생성
 <br>
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/6514d65a-ea0f-4066-8c6b-3cebbf1fdf40" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/ea0a42f4-19fa-45a6-858c-bcdffb18f29e" />
