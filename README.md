@@ -34,7 +34,7 @@
 * streamlit을 활용해 간단한 웹페이지를 구축한 후 헤어스타일 추천 및 사진 생성 서비스 진행
 <img width="774" alt="Image" src="https://github.com/user-attachments/assets/1cbf3ea5-22d5-459f-8dca-ccce7cb913e5" />
 * 헤어스타일 질문 query 생성 및 답변 생성 (헤어컬러는 프롬프트에서 뺀 상태)
-
+<img width="637" alt="Image" src="https://github.com/user-attachments/assets/3e483068-163d-4a71-9c58-c8e95cc8f7c3" />
 * 헤어스타일 생성
 
 ## 😎Members
