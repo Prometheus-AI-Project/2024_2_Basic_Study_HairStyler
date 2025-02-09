@@ -38,6 +38,7 @@
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/3e483068-163d-4a71-9c58-c8e95cc8f7c3" />
 <br>
 * 헤어스타일 생성
+<br>
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/c59e75d2-7916-42d9-b4ad-813636249278" />
 <img width="637" alt="Image" src="https://github.com/user-attachments/assets/ea0a42f4-19fa-45a6-858c-bcdffb18f29e" />
 
