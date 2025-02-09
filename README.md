@@ -33,7 +33,9 @@
 * 2025/02/08 프로메테우스 데모 데이 부스 운영
 * streamlit을 활용해 간단한 웹페이지를 구축한 후 헤어스타일 추천 및 사진 생성 서비스 진행
 <img width="774" alt="Image" src="https://github.com/user-attachments/assets/1cbf3ea5-22d5-459f-8dca-ccce7cb913e5" />
+* 헤어스타일 질문 query 생성 및 답변 생성 (헤어컬러는 프롬프트에서 뺀 상태)
 
+* 헤어스타일 생성
 
 ## 😎Members
 | 심수민 (팀장, 개발)      | 강민진 (개발)     | 김성재 (개발)     | 조현진 (개발)  |
